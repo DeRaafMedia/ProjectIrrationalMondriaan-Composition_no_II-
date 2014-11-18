@@ -2,7 +2,7 @@
 //  rectangels.cpp
 //  ProjectIrrationalMondriaan
 //
-//  Created by Remco Platjes on 16-11-14.
+//  Created by Remco Platjes on 17-11-14.
 //
 //
 
