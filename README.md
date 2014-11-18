@@ -15,7 +15,7 @@ This project is a spawn of --> [ProjectIrrationalMondriaan](https://github.com/D
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Composition_no_II-/blob/master/bin/data/Irrational%20Mondriaan.png)
 
-(This specific painitng is sound reactive (viewer needs to yell really hard for the full effect). The solid red dot in the middle will grow in size with higher volume screams).
+(This specific painitng is sound reactive (viewer needs to yell really hard for the full effect). The solid red dot in the middle will grow in size with higher volume screams. [Example with music -->](http://youtu.be/qQnGm2pl_fU)).
 
 Written and only tested with Mac OS X Yosemite, Xcode 6.1 and I used a Nightly Build openFrameworks (wanted to test some new upcoming functionality)
 
