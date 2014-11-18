@@ -7,15 +7,11 @@ Since I upgraded to Yosemite a lot of old Processing sketches broke, rather than
 
 ===========================
 
-The Irrational Mondriaan series is an exploration of how willing viewers are to interact with interactive paintings.
-
-The paintings in rest are digital reproductions of Mondriaan paintings. I choose Mondriaan paintings because to me they have a philopsophy to 'deconstruct' a composition to it's fundamentals. Horizontals, verticals, if color is used it's just a minimal pallet of reds, yellows and blues. I perceive these paintings as a pure 'rational' modus operandi.
+This project is a spawn of --> [ProjectIrrationalMondriaan](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan). Where you can read a full description. 
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Composition_no_II-/blob/master/bin/data/Irrational%20Mondriaan-rest.png)
 
 (Painting at 'rest')
-
-What these video paintings do is giving the viewer the opportunity to counter act this rationality with irrationalty (yelling at the painting, punching the painting, dance in front the painting) to show what maybe could have been. How far is the viewer willing to go?
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Composition_no_II-/blob/master/bin/data/Irrational%20Mondriaan.png)
 
@@ -24,3 +20,5 @@ What these video paintings do is giving the viewer the opportunity to counter ac
 In a related series (still as Processing sketch) I have a 'Who's afraid of Red, Yellow and Blue' by Barnett Newman where the viewer can take a virtual knife to the canvas.
 
 Written and only tested with Mac OS X Yosemite, Xcode 6.1 and I used a Nightly Build openFrameworks (wanted to test some new upcoming functionality)
+
+A short description on how to install this software can be found in this projects [wiki](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Composition_no_II-/wiki)
